@@ -219,7 +219,7 @@ nav{
       </div>
     </a>
     <a href="#">
-      <div  id="openLogin1" class="link borderRight"><h3>Login</h3></div>
+      <div  id="" class="link borderRight"><h3>Login</h3></div>
     </a>
   </div>
 </div>
