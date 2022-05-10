@@ -193,14 +193,14 @@ nav{
   </div>
 </div>
 <div  class="linksContainer menuWeb">
-  <a href="../../Pages/Index/index.php">
+  <a href=""> <!-- ../../Pages/Index/index.php -->
     <div class="link"><h3>Home</h3></div>
   </a>
-  <a href="../../Pages/Lanyards/Lanyard.php">
+  <a href="">  <!-- ../../Pages/Lanyards/Lanyard.php -->
     <div class="link"><h3>Lanyards</h3></div>
   </a>
 
-  <a href="../../Pages/About/About.php">
+  <a href=""> <!-- ../../Pages/About/About.php -->
     <div class="link borderRight"><h3>About</h3></div>
   </a>
   <a href="#">
@@ -215,7 +215,7 @@ nav{
   <div class="itemsContainer">
     <a href="#">
       <div class="link borderRight">
-        <img src="../General/Menu/Checkout.png" alt="">
+        <img src="../General/Menu/Checkout.png" alt=""> <!-- -->
       </div>
     </a>
     <a href="#">
