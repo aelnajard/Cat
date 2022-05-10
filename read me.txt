@@ -1,0 +1,18 @@
+ 
+
+1. Arreglar 1 y 2 columnas del AddToCart 
+2. Hacer que cuando se seleccionen los Items de AddToCart en el "select" se elimine el seleccionado
+3. Pulir esquinas del Lanyard
+
+Clips
+
+1. Clip Metalico 1 : la parde de abajo debe ser mas redonda
+                 2 el segundo circulo esta muy arriba
+                 3 el tercero esta muy largo
+                 4 el broche es solo uno
+( corregirlos en general)
+
+2. crear lineas de  tamaño de cordones
+3. Arreglar iPhone size index section most popular lanyards.
+4. Arreglar menu con el tamaño iPhone size (icono menu)
+
