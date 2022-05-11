@@ -191,7 +191,7 @@
     </div>
   </div>
   <div class="itemMenu">
-    <img id="openMenu" class="IconMenu" src="../General/Menu/Menu.png" alt="">
+    <img id="openMenu" class="IconMenu" src="../General/Menu/menu.png" alt="">
     <img id="closeMenu" class="iconClose" src="../General/Menu/close.png" alt="">
   </div>
 </div>
