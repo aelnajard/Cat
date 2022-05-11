@@ -157,7 +157,6 @@
 .containerPanelSlide1{
   position: relative;
   top: 50%;
-  transform: translateY(-50%);
 }
 
 @media screen and (max-width: 800px){

@@ -97,7 +97,11 @@
 /*----------------------------------------------------------------------------*/
 /*---------------------------------- Menu mobile -----------------------------*/
 /*----------------------------------------------------------------------------*/
-
+.stickyMenuMobile{
+  position: sticky;
+  top: 90px;
+  z-index: 10;
+}
   .mobileMenu{
     position: absolute;
     width: 10vw;
@@ -106,9 +110,10 @@
     background: rgba(69,79,177,1);
     display: none;
     right: 0px;
-    top: 90px;
+    top: 0px;
     z-index: 10;
     min-height: 450px;
+    box-shadow: 1px 1px 4px black;
   }
   .relativeMobileMenu{
     position: relative;
@@ -156,7 +161,6 @@
   }
 </style>
 
-
 <section class="websiteMenu">
 <div class="contentMenu">
 
@@ -197,6 +201,7 @@
 </div>
 </section>
 
+<div class="stickyMenuMobile">
 <section id="mobileMenu"class="mobileMenu">
   <div class="relativeMobileMenu">
     <div class="containerMobileMenu">
@@ -224,6 +229,7 @@
     </div>
   </div>
 </section>
+</div>
 
 <script type="text/javascript">
 
