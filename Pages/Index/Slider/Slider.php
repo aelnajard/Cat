@@ -6,6 +6,7 @@
   min-height: 480px;
   overflow: hidden;
 }
+
 @media screen and (max-width: 391px){
   .hidden{
     display: none;
