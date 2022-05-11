@@ -7,6 +7,7 @@
     background: rgb(63,152,237);
     background: linear-gradient(90deg, rgba(63,152,237,0.9) 0%, rgba(69,79,177,0.9) 33%, rgba(143,82,180,0.9) 73%, rgba(196,56,149,0.9) 95%);
     z-index: 10;
+    min-height: 10%;
   }
   .contentMenu{
     position: relative;
