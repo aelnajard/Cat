@@ -20,3 +20,4 @@ Clips
 
 Laura
 1. Arreglar el menu mobile que se esconda cuando es web
+2. Hacer que el slider sea el 100%
