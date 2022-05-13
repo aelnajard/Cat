@@ -61,11 +61,13 @@
   top: 65%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 100%;
+
   text-align: center;
   color: WHITE;
   padding: 0 15px;
-  padding: 20px 0;
+  background-color: rgba(250,250,250,.5);
+  padding: 20px ;
+
 }
 .relative{
   position: relative;
