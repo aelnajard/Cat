@@ -73,11 +73,11 @@
         <img src="../../Pages/Index/Promo/promo.png" alt="">
       </div>
       <div class="partPromo">
-        <h3><a href=""><strong>Click here</strong></a> to get  pricing on your lanyard - we will
+        <h3><a href="../../Pages/Lanyards/Lanyard.php"><strong>Click here</strong></a> to get  pricing on your lanyard - we will
       give you an alternative costing price automaticlally for another style (where applicable) </h3>
       </div>
       <div class="partPromo">
-        <a href="">
+        <a href="../../Pages/Lanyards/Lanyard.php">
       <button type="button" name="button"> Lanyards </button>
       </a>
       </div>

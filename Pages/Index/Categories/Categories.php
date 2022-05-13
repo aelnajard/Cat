@@ -24,7 +24,6 @@
   cursor: pointer;
   border: 1px solid black;
   overflow: hidden;
-  box-shadow: 0px 0px 900px #6754AD;
 }
 .containerCategorie img{
   position: absolute;

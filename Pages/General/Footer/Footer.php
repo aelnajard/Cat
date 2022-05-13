@@ -161,7 +161,7 @@
     <h1 class="footer__logo"> <a href="index.php">-<img  class="logoFooter" src="../../Pages/General/Footer/Logo.png"></a> </h1>
     <h2 class="nav__title left-Padding"> Contact </h2><br>
     <address>
-      England, Hamble <br><br>
+      Country, City <br><br>
       Phone <br>  <br>
       Address <br>  <br>
       Office

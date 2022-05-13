@@ -3,15 +3,11 @@
   position: relative;
   padding: 20px 50px;
 }
-
-
 .popularTitle{
   text-align: center;
   font-size: calc(1.3vw + 1.6em);
-  font-weight: 400;
-  color: rgb(51, 25, 155);
-  text-shadow: 2px 2px 2px black;
-  text-decoration: underline;
+  font-weight: 300;
+  color: black;
 }
 .containerPopular{
   position: relative;
@@ -23,7 +19,6 @@
   width: 50%;
   padding: 20px;
 }
-
 .item-box-popular{
   position: relative;
   padding: 3px 0;
@@ -33,7 +28,6 @@
   background-color: rgba(51, 25, 155,.2);
   transition: all .5s;
 }
-
 .item-box-popular:hover{
   background-color: rgba(51, 25, 155,1);
   transition: all .5s;
@@ -58,22 +52,30 @@
   padding-top: 5px;
    padding-left: 20px;
    font-size: 1.4em;
-   color: rgb(51, 25, 155);
-   font-weight: 500;
-   text-shadow: 0px 0px 1px black;
+   color: black;
+   font-weight: 300;
+ }
+ .textPopular1 h3{
+   font-weight: 400;
  }
 
  .btn-popular{
   position: relative;
   padding: 8px;
-  background-color: rgb(143, 82, 180);
+  background-color: rgba(51, 25, 155,1);
   color: white;
   text-align: center;
   margin: 30px;
   cursor: pointer;
-  box-shadow: 2px 2px 2px black;
-  
+
 }
+.btn-popular h2{
+  font-weight: 400;
+
+}
+
+
+
 .btn-popular:hover{
   background-color: rgba(51, 25, 155,1);
   transition: all .5s;
@@ -139,7 +141,7 @@
 
     <div class="item-box-popular">
          <div class="item-popular">
-           <h3 class="textPopular1"><strong>Meterial </strong></h3>
+           <h3 class="textPopular1">Meterial </h3>
          </div>
          <div class="item-popular">
            <h3 class="textPopular2"> Dye-sublimation </h3>
@@ -148,7 +150,7 @@
 
        <div class="item-box-popular">
          <div class="item-popular">
-           <h3 class="textPopular1"><strong>Type Lanyard </strong></h3>
+           <h3 class="textPopular1">Type Lanyard </h3>
          </div>
          <div class="item-popular">
            <h3 class="textPopular2"> Single Ended </h3>
@@ -157,7 +159,7 @@
 
        <div class="item-box-popular">
          <div class="item-popular">
-           <h3 class="textPopular1"><strong>With </strong></h3>
+           <h3 class="textPopular1">With </h3>
          </div>
          <div class="item-popular">
            <h3 class="textPopular2"> 20mm </h3>
@@ -166,7 +168,7 @@
 
        <div class="item-box-popular">
          <div class="item-popular">
-           <h3 class="textPopular1"><strong>Color </strong></h3>
+           <h3 class="textPopular1">Colour</h3>
          </div>
          <div class="item-popular">
            <h3 class="textPopular2"> Coverage </h3>
