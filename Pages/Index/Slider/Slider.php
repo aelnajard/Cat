@@ -65,7 +65,6 @@
   text-align: center;
   color: WHITE;
   padding: 0 15px;
-  background-color: rgba(250,250,250,.5);
   padding: 20px 0;
 }
 .relative{
