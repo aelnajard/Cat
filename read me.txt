@@ -1,6 +1,6 @@
- 
 
-1. Arreglar 1 y 2 columnas del AddToCart 
+
+1. Arreglar 1 y 2 columnas del AddToCart
 2. Hacer que cuando se seleccionen los Items de AddToCart en el "select" se elimine el seleccionado
 3. Pulir esquinas del Lanyard
 
@@ -16,3 +16,8 @@ Clips
 3. Arreglar iPhone size index section most popular lanyards.
 4. Arreglar menu con el tamaño iPhone size (icono menu)
 
+
+
+Laura
+1. Arreglar el menu mobile que se esconda cuando es web
+2. Hacer que el slider sea el 100%

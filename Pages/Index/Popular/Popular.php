@@ -6,7 +6,7 @@
 .popularTitle{
   text-align: center;
   font-size: calc(1.3vw + 1.6em);
-  font-weight: 300;
+  font-weight: 400;
   color: black;
 }
 .containerPopular{

@@ -33,6 +33,7 @@
 .footer__addr h2 {
   margin-top: 1.3em;
   font-weight: 400;
+  font-size: 1.4em;
 }
 
 .nav__title {
@@ -45,7 +46,7 @@
   font-style: normal;
   color: white;
   margin-left: 3.1em;
-
+  font-size: 1.4em;
 }
 
 .footer__btn {
@@ -70,6 +71,9 @@
 
 .footer li {
   line-height: 2em;
+  font-size: 1.2em;
+  font-weight: 300;
+
 }
 
 .footer a {
@@ -105,6 +109,8 @@
 }
 .legal p {
   color: lightgrey;
+  font-size: 1.4em;
+  font-weight: 300;
 }
 .legal__links {
   display: flex;
@@ -158,10 +164,10 @@
 <Footer class="footer">
 
   <div class="footer__addr">
-    <h1 class="footer__logo"> <a href="index.php">-<img  class="logoFooter" src="../../Pages/General/Footer/Logo.png"></a> </h1>
+    <h1 class="footer__logo"> <a href="index.php"><img  class="logoFooter" src="../../Pages/General/Footer/Logo.png"></a> </h1>
     <h2 class="nav__title left-Padding"> Contact </h2><br>
     <address>
-      Country, City <br><br>
+      England, Hamble <br><br>
       Phone <br>  <br>
       Address <br>  <br>
       Office
@@ -169,34 +175,18 @@
   </div>
 
   <ul class="footer__nav">
-    <li class="nav__item">
-      <h2 class="nav__title">Social Media</h2>
-      <ul class="nav__ul">
-        <li> <a href="#">Linkedin</a> </li>
-        <li> <a href="#">Youtube</a> </li>
-        <li> <a href="#">Instagram</a> </li>
-      </ul>
-    </li>
-
     <li class="nav__item nav__item--extra">
-      <h2 class="nav__title">Company's name</h2>
       <ul class="nav__ul nav__ul--extra">
-        <li> <a href="Scanners.php"> Popular's landyards </a> </li>
-        <li> <a href="#">Make your own landyards</a> </li>
-
-
+        <li> <a href="#"> Lanyard </a> </li>
+        <li> <a href="#">About us</a> </li>
+        <li> <a href="#">Contact us</a> </li>
+        <li> <a href="#">My lanyards</a> </li>
       </ul>
     </li>
-
-
   </ul>
 
   <div class="legal">
-    <p>&copy; 2021 Company's name. </p>
-
-<!--    <div class="legal__links">
-      Powered by: <span> <a href="http://www.otticostudio.com"> Ottico <span class="heart"></span> Studio </a></span>
-    </div>  -->
+    <p>&copy; 2022 Lanyards for you. </p>
   </div>
 </Footer>
 <!-- End Footer -->

@@ -15,7 +15,7 @@
   position: relative;
   left: 50%;
   top: 50%;
-  width: 60%;
+  width: 90%;
   transform: translateX(-50%);
   background-color: rgba(0,0,0,.4);
   padding: 15px;
@@ -25,7 +25,7 @@
   position: relative;
   color: white;
   text-align: center;
-  font-weight: 400;
+  font-weight: 300;
   font-size: 1.7em;
   text-shadow: 1px 1px 0px black;
 }

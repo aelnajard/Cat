@@ -12,34 +12,8 @@
   <body>
 
     <?php include("../../Pages/General/Menu/Menu.php"); ?>
+    
 
-    <style media="screen">
-    .Lanyard{
-      position: relative;
-      width: 100vw;
-      display: flex;
-    }
-    .filter{
-      position: relative;
-      flex-grow: 2;
-      min-width: 320px;
-      box-shadow: 2px 0px 3px black;
-    }
-    .content{
-      position: relative;
-      flex-grow: 7;
-    }
-    </style>
-
-
-    <section class="Lanyard">
-
-    <?php include("../../Pages/Lanyards/Filter/Filter.php"); ?>
-    <?php include("../../Pages/Lanyards/Content/Content.php"); ?>
-
-
-
-    </section>
 
     <?php include("../../Pages/General/Footer/Footer.php"); ?>
 

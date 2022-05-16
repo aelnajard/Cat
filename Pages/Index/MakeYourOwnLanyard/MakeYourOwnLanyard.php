@@ -11,13 +11,12 @@
    text-align: center;
    font-size: calc(1.3vw + 1.6em);
    font-weight: 400;
-   color: rgb(51, 25, 155);
-   text-shadow: 2px 2px 2px black;
+   color: black;
  }
 
  .btn-MYOL{
   position: relative;
-  padding: 8px;
+  padding: 8px 15px;
   height: auto;
   background-color: rgba(51, 25, 155,1);
   left: 50%;
@@ -26,7 +25,7 @@
   text-align: center;
   cursor: pointer;
   font-size: 1.1em;
-  box-shadow: 2px 2px 2px black;
+  border: 1px 1px 1px transparent;
  }
 
  .btn-MYOL:hover{
@@ -37,7 +36,6 @@
  .videoSection{
    position: relative;
  }
-
 
 </style>
 
