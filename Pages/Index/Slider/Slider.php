@@ -164,22 +164,29 @@
       transform: translate(-50%,-50%);
     /*  background-color: rgba(255, 255, 255, 0.6); */
       z-index: 2;
-
     }
     .slider2 p{
+      position: relative;
+      left: 50%;
+      transform: translateX(-50%);
       color: black;
       font-weight: 300;
+      width: max-content;
       text-align: center;
       font-size: 1.4em;
       background-color: rgba(255, 255, 255, 0.6);
     }
     .slider2 h2{
-       margin: 5px 0px;
-       text-align: center;
-       font-weight: 500;
-       background-color: rgba(255, 255, 255, 0.6);
-       width: auto;
-
+      position: relative;
+      left: 50%;
+      transform: translateX(-50%);
+      display: inline-block;
+      width: max-content;
+      margin: 5px 0px;
+      text-align: center;
+      font-weight: 500;
+      background-color: rgba(255, 255, 255, 0.6);
+      width: auto;
      }
      .slider2 button{
        position: relative;
