@@ -191,14 +191,14 @@
         <h3>Contact us</h3>
       </div>
     </a>
-    <a href="#">
+    <a href="../../Pages/MyLanyards/MyLanyards.php">
       <div class="subitemMenu">
         <h3>My Lanyards</h3>
       </div>
     </a>
   </div>
   <div class="itemMenu">
-  <a href="#">
+  <a href="../../Pages/ShoppingCart/ShoppingCart.php">
     <div class="subitemMenu">
       <img src="../General/Menu/Checkout.png" alt="">
     </div>
@@ -240,7 +240,7 @@
         <h3>Contact us</h3>
       </div>
     </a>
-    <a href="#">
+    <a href="../../Pages/MyLanyards/MyLanyards.php">
       <div class="itemMenuMobile">
         <h3>My Lanyards</h3>
       </div>
@@ -250,7 +250,7 @@
         <h3>Shopping cart</h3>
       </div>
     </a>
-    <a href="#">
+    <a href="../../Pages/ShoppingCart/ShoppingCart.php">
       <div class="itemMenuMobile">
         <h3>Login</h3>
       </div>

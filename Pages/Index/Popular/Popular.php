@@ -215,7 +215,7 @@ document.getElementById('btn-popular').addEventListener('click', e => {
           }
 
     }
-  );*/
+  );*
 
 
 </script>

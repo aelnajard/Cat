@@ -13,7 +13,6 @@
   -webkit-transition: .2s;
   transition: opacity .2s;
   box-shadow: 1px 1px 1px grey;
-
 }
 
 .slider2:hover {
